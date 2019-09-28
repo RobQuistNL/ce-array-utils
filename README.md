@@ -1,2 +1,2 @@
-# ce-array-utils
+# CE Array Utils
 Array utility scripts
